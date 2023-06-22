@@ -133,3 +133,4 @@ win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
 wincertstore==0.2
 yfinance==0.2.12
 zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
+sklearn
